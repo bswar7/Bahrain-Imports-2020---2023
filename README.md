@@ -1,6 +1,8 @@
 ### Bahrain Imports 2020 - 2023
 
-Dashboard Link https://drive.google.com/drive/folders/1GHGG16vHWz3E_keI90ITU-Dv4fP3Mk_l?usp=drive_link
+<img width="539" height="302" alt="Screenshot 2025-08-31 122408" src="https://github.com/user-attachments/assets/99fdb890-c5b3-4271-ab20-ddb588cc244e" />
+
+[Bahrain Imports 2020 - 2023 Dashboard](https://drive.google.com/drive/folders/1GHGG16vHWz3E_keI90ITU-Dv4fP3Mk_l?usp=drive_link)
 
 ## Description
 
