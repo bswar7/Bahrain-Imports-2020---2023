@@ -3,7 +3,7 @@
 [Bahrain Imports 2020 - 2023 Dashboard](https://drive.google.com/drive/folders/1GHGG16vHWz3E_keI90ITU-Dv4fP3Mk_l?usp=drive_link)
 
 
-<img width="581" height="329" alt="Screenshot 2025-08-31 202307" src="https://github.com/user-attachments/assets/b9015f89-0c3c-4efd-8120-8c771136cb49" />
+<img width="581" height="328" alt="Bahrain import 2020 - 2023 Dashboard" src="https://github.com/user-attachments/assets/2c00af9e-b453-4da1-8ec7-8a850202c83b" />
 
 
 ## Description
