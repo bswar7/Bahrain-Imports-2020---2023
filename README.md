@@ -8,7 +8,7 @@ The goal is to understand import trends, identify the top countries and product 
 ## Dataset
 
 The dataset is taken from the Bahrain Open Data Portal:
-Click here to view the dataset
+[Click here to view the dataset](https://www.data.gov.bh/explore/?disjunctive.theme&sort=modified&q=import)
 
 ## Analysis
 
